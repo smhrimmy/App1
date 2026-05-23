@@ -1,0 +1,6 @@
+{
+  "name": "EstateFlow CRM",
+  "description": "Mobile-first Real Estate CRM for managing leads, property inventory, instant calls, and team attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
